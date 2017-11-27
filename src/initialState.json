@@ -1,0 +1,42 @@
+{
+  "incomes": [
+    {
+      "id": "ac796062-1b21-4a49-a921-831492b0e2f2",
+      "date": "Sun Nov 26 2017 18:38:06 GMT-0600 (CST)",
+      "amount": 2000.0,
+      "description": "Pay check"
+    },
+    {
+      "id": "660bb824-e046-4301-a67f-cff5f9aea027",
+      "date": "Sun Nov 20 2017 18:38:06 GMT-0600 (CST)",
+      "amount": 2500.0,
+      "description": "Pay check"
+    },
+    {
+      "id": "83d421b3-c274-4c7d-98e4-3a72bf7d3fb5",
+      "date": "Sun Dec 01 2017 18:38:06 GMT-0600 (CST)",
+      "amount": 45.00,
+      "description": "Government rebate"
+    }
+  ],
+	"expenses": [
+    {
+      "id": "79437aa2-b3c6-4a25-bafa-895bc3787be1",
+      "date": "Sun Nov 26 2017 18:38:06 GMT-0600 (CST)",
+      "amount": 1090.0,
+      "description": "Mortgage"
+    },
+    {
+      "id": "f3d40707-f417-4888-84a6-df72e2f7edc6",
+      "date": "Sun Nov 20 2017 18:38:06 GMT-0600 (CST)",
+      "amount": 320.0,
+      "description": "Property tax"
+    },
+    {
+      "id": "cf874900-ee93-45b6-8110-33515e11112d",
+      "date": "Sun Dec 01 2017 18:38:06 GMT-0600 (CST)",
+      "amount": 500.0,
+      "description": "Car payment"
+    }
+  ]
+}
