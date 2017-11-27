@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
-import CashflowTable from '../containers/CashflowTable'
+import IncomeList from '../containers/IncomeList'
 
 class App extends Component {
   render() {
     return (
-      <CashflowTable />
+      <IncomeList />
     );
   }
 }
